@@ -3,7 +3,7 @@
 * We'll note down the changes we're making to the original dataset
 * This information will be invaluable to the data scientists
 
-* **Note 2:**
+**Note 2:**
 1. Every categorical variable must be quantified.
 2. We need to change any text columns into numbers (Based on info).
 3. For others, we only care if they provide +ve or -ve connotations.
