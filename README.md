@@ -1,3 +1,8 @@
+Credit risk is associated with the possibility of a client failing to meet contractual obligations, such as mortgages, credit card debts, and other types of loans.
+Minimizing the risk of default is a major concern for financial institutions. For this reason, commercial and investment banks, venture capital funds, asset management companies, and insurance firms, to name a few, are increasingly relying on technology to predict which clients are more prone to stop honoring their debts.
+
+The dataset contains 10,000 values of customers.
+
 **Note 1:**
 * Our goal is to obtain a clean & preprocessed dataset
 * We'll note down the changes we're making to the original dataset
